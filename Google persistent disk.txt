@@ -1,0 +1,37 @@
+Google Persistent Disk
+                                      Double durable storage
+Introduction:
+Google Persistent disk is a double durable storage and google persistent disk are designed for durability and availability and it is used to store the data and it is a high performance block storage
+Google Persistent disk is cloud native block storage based and given by google cloud platform and persistent disk are of 2 types strandlized data persistent disk and solid  state drive persistent disk.
+Standard persistent disk are used for general purpose workload and solid state disk for high performance workload with low latency and input output operation per second
+Project summary
+Website  :    https://cloud.persistent-disk.com
+Organization : Google
+ License : Google cloud platform
+ Open propreator :  not an open source
+Brief description : google persistent disk based on cloud platform and it double storage stores the data 
+
+Project details:
+Key features:
+•	high performance block storage it has high performance which store data fast
+•	durability and availability keeps your business running
+•	Automation and security and encryption
+•	Decouple compute engine
+•	Scalability and flexibility
+•	High availability
+•	High performance
+Current usage
+•	Google Persistent are used in:
+•	Paypal
+•	Twitter
+•	Airbus
+•	Blue airpon
+•	Protector and gamble
+
+Technical details:
+•	Block storage has scope and downtime
+•	Flexibility that comes with 0 downtime 
+•	Industy leading price and performance
+Other information
+Google Persistent disk are of 2 types  standard persistent disk and solid state persistent disk standard is used for general purpose work load and solid state is used for high purpose workload.
+
